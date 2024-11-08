@@ -1,2 +1,0 @@
-# Kru
-Kru_repository
